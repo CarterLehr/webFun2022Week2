@@ -1,0 +1,35 @@
+#search {
+    background-color: lightcyan;
+    color: darkblue;
+    text-align: center;
+    font-weight: bold;
+    font-size: 150%;
+    padding: 5px 50px;
+    border-radius: 20px;
+}
+#plus {
+    border: none; 
+    height: 40px;
+    width: 40px;
+    font-size: 150%;
+    border-radius: 50%; 
+    background-color: lightgreen;
+    color: white;
+    text-align: center;
+}
+#accountCreate {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: 150%;
+    padding: 5px 5px;
+    width: 250px;
+    box-shadow: 10px 5px 5px black;
+}
+
+#box-1, #box-2, #box-3{
+	height: 20px;
+	width: 20px;
+	margin: 0 20px;
+	padding: 20px;
+}
