@@ -1,0 +1,21 @@
+#title {
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+
+
+
+#subtitle {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+#footer {
+    background-color: lightblue;
+    color: green;
+    text-align: right;
+    text-decoration: underline;
+}
